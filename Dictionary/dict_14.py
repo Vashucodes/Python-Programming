@@ -5,5 +5,5 @@ marks = {
     "Java": 85
 }
 
-for subject,marks in marks.items():
+for subject,mark in marks.items():
     print(subject,":",marks)
