@@ -1,1 +1,2 @@
-Hello , I am learning pythonI am practicing file handling.
+Hello , I am learning python
+I am practicing file handling.
